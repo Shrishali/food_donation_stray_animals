@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/headerbackground.xml" value="0.124" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2595" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1555" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline_keyboard_return_24.xml" value="0.2595" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2595" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/navigation_selecter.xml" value="0.2585" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/navigation_selector.xml" value="0.1555" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.2595" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/navigatioview_itemselected.xml" value="0.1555" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/drawable/wave.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_about_us.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_aboutuser.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_donate.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_donorpage.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_email.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_email_donor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_history.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_profile2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_receive.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_sidedraw.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_status.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/activity_volunteerpage.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/email.xml" value="0.190625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/fragment_first.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/fragment_second.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/header.xml" value="0.2375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/headerbackground.xml" value="0.2375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/headerdonar.xml" value="0.253125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/item.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/layout/sidedrawerdonar.xml" value="0.253125" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/menu/mean_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/FoodDonation/app/src/main/res/menu/menudonor.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

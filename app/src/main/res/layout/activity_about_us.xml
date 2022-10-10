@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/headerbackground"
+    tools:context=".AboutUs">
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="About us"
+        android:textColor="@color/purple_700"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.411"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="349dp"
+        android:layout_height="598dp"
+        android:gravity="left"
+        android:text="         A drastic increase can be seen in food waste.Hence there is a need to come up with a solution that can avoid food waste by distributing the remaining food among the stray animals.This android-based Food Waste Management system can assist in collecting the leftover food from hotels,restaurants,wedding halls and distribute them among the stray animals.Donors will raise a request, in case if there is any leftover food in restaurants/hotels/wedding halls. The NGOs can accept the request and collect the food and distribute it among the stray animals suffering from starvation and malnutrition. In this way this android-based food waste management system will help restaurants/wedding halls/hotels to reduce food waste and help in feeding the stray animals. Donors can check the list of NGOs available,history of his/her donation of food and also view the status of donation ."
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.741"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.676" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
